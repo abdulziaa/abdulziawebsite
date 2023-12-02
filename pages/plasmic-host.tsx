@@ -6,4 +6,4 @@ export default function PlasmicHost() {
   return PLASMIC && <PlasmicCanvasHost />;
 }
 
-export const runtime = 'edge';
+export const runtime = 'experimental-edge';
